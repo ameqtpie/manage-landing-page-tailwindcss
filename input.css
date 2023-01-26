@@ -56,7 +56,7 @@ body {
   transform: translateY(14px);
 }
 
-.opem {
+.open {
   transform: rotate(90deg);
   transform: translateY(0px);
 }
